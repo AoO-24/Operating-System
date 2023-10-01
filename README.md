@@ -1,4 +1,4 @@
-# Operating-System
+# UW-Operating-System
 ## OS Project Using C language
 
 Welcome to CS 537!
